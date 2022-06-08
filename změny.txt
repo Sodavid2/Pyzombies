@@ -1,0 +1,20 @@
+verze 1.8
+vyčištení kódu
+town přejmenováno na village
+trochu přehlednější zobrazení inventáře
+
+verze 1.7
+nepřátele jsou trochu slabší
+začátek v nekonečném módu je trochu jednoduší
+zbraně mají  trochu menší výdrž
+množství infekce - čím déle hrajete, tím více zombie budete potkávat
+morfium teď okamžitě doplní 30 životů
+bránění už nespotřebuje všechny zbývající akce, pouze jednu
+více statistik po smrti
+obrněný zombie má méně brnění
+
+verze 1.6
+nekonečný mód už se dá normálně hrát, nevím jestly je vyvážený
+blok teď zablokuje 5 poškození místo 4
+menší šance na krvácení
+další menší změny

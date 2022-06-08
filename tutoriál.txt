@@ -1,0 +1,23 @@
+hra se nejlépe hraje na numerické klávesnici
+mazání textu funguje pouze v konzoli
+
+souboj
+- každé kolo můžeš udělat 3 věci
+- zmáčkni 1/2/3 pro útok odpovídající zbraní (útočení spotřebovává výdrž)
+- zmáčkni nulu pro připravení obrany (1 bod uchrání před 5 poškozením)
+- zmáčknutí enteru (aniž bys cokoliv napsal) přemění všechny zbývající akce na výdrž
+- zmáčknutím + můžete otevřít inventář
+
+inventář
+- každý předmět má různou váhu
+- pokud máte v inventáři více předmětů, než unesete, nemůžete cestovat
+- pro zavření inventáře zmáčkni nulu
+
+svět
+- různé lokace mají různé typy zombie
+- různé budovy mají různý loot
+
+tipy
+- to že jsi nenašel žádnou budovu neznamená že už v dané lokaci žádné nejsou, musíš jen hledat déle
+- pokud máš málo životú a hodně jídla, můžeš strávit nějakou dobu odpočíváním
+- různé lokace mají různé nepřátele a různé budovy mají různý loot
